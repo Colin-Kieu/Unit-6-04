@@ -16,7 +16,7 @@ function solve () {
   /* parseInt converts the numbers into integers */
   sum = (num1 + num2) / 2
   area = sum * num3
-  /* this is the actual math part*/
+  /* this is the actual math part */
   document.getElementById('answer').innerHTML = area
   /* this will display the answer onto the webpage and not like an alert */
 }
